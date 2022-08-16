@@ -1,0 +1,22 @@
+body { 
+    background-color: grey;
+    font-family: monospace;
+}
+
+.container { 
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.box-container { 
+    border: 1px solid blue;
+    width: 50vh;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+}
+
+.my-list {
+    list-style-type: none;
+    color: green;
+}
