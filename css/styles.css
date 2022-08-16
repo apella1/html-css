@@ -18,5 +18,10 @@ body {
 
 .my-list {
     list-style-type: none;
-    color: green;
+    color: red;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: nowrap;
+    
 }
