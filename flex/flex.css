@@ -1,0 +1,17 @@
+body {
+  margin: 2rem;
+}
+
+.flexible-module {
+  display: flex;
+  flex-direction: row;
+}
+
+.terminology {
+  display: flex;
+  flex-direction: column;
+}
+
+.terminology ul {
+  list-style: decimal-leading-zero;
+}
